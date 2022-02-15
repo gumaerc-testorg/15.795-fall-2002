@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on the communications value chain, roadmapping communications,
   dynamic analysis to support industry, and roadmap instructions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-795-seminar-in-operations-management-fall-2002/e39880c4930eb788e08d66794a114952_lec_4.pdf
+file: /media/courses/15-795-seminar-in-operations-management-fall-2002/e39880c4930eb788e08d66794a114952_lec_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Architectures and Roadmaps for Communications and Media
 uid: e39880c4-930e-b788-e08d-66794a114952

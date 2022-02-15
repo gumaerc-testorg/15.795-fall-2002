@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on with an overview of the course and introduction
   to technology roadmapping.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-795-seminar-in-operations-management-fall-2002/be1bace38cf32ab7991a256e25f5e9b8_trm15795classoverview.pdf
+file: /media/courses/15-795-seminar-in-operations-management-fall-2002/be1bace38cf32ab7991a256e25f5e9b8_trm15795classoverview.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Technology Roadmapping: Day One'
 uid: be1bace3-8cf3-2ab7-991a-256e25f5e9b8
