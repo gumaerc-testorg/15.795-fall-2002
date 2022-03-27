@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1747cf77-21c1-6a4e-3d41-71dada89fb64
 resourcetype: Document
 title: Strategic Supply Chain Design
 uid: ea15db95-364d-4d89-db96-2badfc685ac2

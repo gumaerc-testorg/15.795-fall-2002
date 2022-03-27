@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1747cf77-21c1-6a4e-3d41-71dada89fb64
 resourcetype: Document
 title: Architectures and Roadmaps for Communications and Media
 uid: e39880c4-930e-b788-e08d-66794a114952

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1747cf77-21c1-6a4e-3d41-71dada89fb64
 resourcetype: Document
 title: 'Technology Roadmapping: Day One'
 uid: be1bace3-8cf3-2ab7-991a-256e25f5e9b8
