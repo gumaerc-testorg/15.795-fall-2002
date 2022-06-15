@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to roadmapping related links, a list of possible
+  tech roadmapping technology domains, and information on additional readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -25,7 +27,7 @@ Other Roadmapping Efforts
     [http://www.itrs2.net/](http://www.itrs2.net/)  
      
 *   ITRS 2001 Executive Summary Report  
-    [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf  
+    [https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf  
     ](https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf) 
 *   Intel's Perspective on the ITRS  
     [http://www.intel.com/technology/architecture-silicon/silicon.htm?iid=tech\_as+silicon\_head](http://www.intel.com/technology/architecture-silicon/silicon.htm?iid=tech_as+silicon_head)  
