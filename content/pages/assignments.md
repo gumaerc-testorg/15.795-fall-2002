@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments and potential
+  project topics.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: f43ed431-115a-fdc1-6dae-0de911de2485
 ---

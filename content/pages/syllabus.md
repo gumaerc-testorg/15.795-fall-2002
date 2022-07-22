@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a seminar description and information on meeting
+  times, goals, elements of the MIT Technology Roadmapping Initiative, enrollment
+  and expectations, grading, and teamwork.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9bddaf57-dd7c-6b3c-1e31-a157837419f2
 ---

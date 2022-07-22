@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, speakers, and key
+  dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 55aadd19-2cea-2471-96e8-8c8aade34fa7
 ---
@@ -103,7 +107,7 @@ Bob Brown, Rod Brooks, Lundquist, et al
 6
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 Sequestration / Environmental
+CO{{< sub "2" >}} Sequestration / Environmental
 {{< tdclose >}}
 {{< tdopen >}}
 Jacoby, Herzog, McFarland
