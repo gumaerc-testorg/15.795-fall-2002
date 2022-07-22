@@ -6,6 +6,7 @@ file: /courses/15-795-seminar-in-operations-management-fall-2002/e39880c4930eb78
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Architectures and Roadmaps for Communications and Media
 uid: e39880c4-930e-b788-e08d-66794a114952
 ---
 Lecture presentation on the communications value chain, roadmapping communications, dynamic analysis to support industry, and roadmap instructions.
-
