@@ -12,41 +12,40 @@ MIT Roadmapping-Related Links
 -----------------------------
 
 *   MIT Emerging Technology Matrix  
-    [http://web.media.mit.edu/~jpbonsen/MIT-Emerging-Technology-Matrix.htm](http://web.media.mit.edu/~jpbonsen/MIT-Emerging-Technology-Matrix.htm)  
+    {{% resource_link "09b079cb-2d0a-4c2a-a51f-deb0c3cb2517" "http://web.media.mit.edu/~jpbonsen/MIT-Emerging-Technology-Matrix.htm" %}}  
      
 *   MicroPhotonics Center Roadmapping Effort  
-    [http://mph-roadmap.mit.edu](http://mph-roadmap.mit.edu/)  
+    {{% resource_link "bc6da955-74a0-4a55-be3a-be0cb6709ab7" "http://mph-roadmap.mit.edu" %}}  
      
 *   Example TRM Theses  
-    [https://mitsloan.mit.edu/faculty/about-us](https://mitsloan.mit.edu/faculty/about-us)
+    {{% resource_link "86629562-c5f6-415e-9e03-aa951aeb5ffb" "https://mitsloan.mit.edu/faculty/about-us" %}}
 
 Other Roadmapping Efforts
 -------------------------
 
 *   ITRS - International Technology Roadmapping for Semiconductors  
-    [http://www.itrs2.net/](http://www.itrs2.net/)  
+    {{% resource_link "76cdf9d7-a02b-46ef-808b-5a68cde8c097" "http://www.itrs2.net/" %}}  
      
 *   ITRS 2001 Executive Summary Report  
-    [https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf  
-    ](https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf) 
+    {{% resource_link "784e80cc-1299-4f41-967b-efba14c7fca1" "https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf       " %}} 
 *   Intel's Perspective on the ITRS  
-    [http://www.intel.com/technology/architecture-silicon/silicon.htm?iid=tech\_as+silicon\_head](http://www.intel.com/technology/architecture-silicon/silicon.htm?iid=tech_as+silicon_head)  
+    {{% resource_link "d9331a21-21e6-4647-ab3a-3ae2076a4dca" "http://www.intel.com/technology/architecture-silicon/silicon.htm?iid=tech\_as+silicon\_head" %}}  
      
 *   Aerospace Tango Projec  
     [https://web.archive.org/web/20040205163103/http://www.tangoecproject.com:80/homepage.htm](https://web.archive.org/web/20040205163103/http://www.tangoecproject.com:80/homepage.htm
     )  
      
 *   Electricity Technology Roadmap  
-    [http://www.epri.com](http://www.epri.com/)  
+    {{% resource_link "2aabf591-6dd8-4ea6-b682-0a060940f86b" "http://www.epri.com" %}}  
      
 *   Lighting Technology Roadmap  
-    [http://www.marketdevelop.com/wapa/Lighting%20Tech%20Road%20Map-Grand%20Island.pdf](https://ledsgp.org/resource/vision-2020-lighting-technology-roadmap/?loclang=en_gb)  
+    {{% resource_link "1f50c937-869a-4e9a-8e01-3322c7b87002" "http://www.marketdevelop.com/wapa/Lighting%20Tech%20Road%20Map-Grand%20Island.pdf" %}}  
      
 *   Robotics & Intelligent Machines RM  
-    [http://www.sandia.gov/LabNews/LN03-12-99/robot\_story.htm](http://www.sandia.gov/LabNews/LN03-12-99/robot_story.htm)  
+    {{% resource_link "48debb18-9c4c-4dcb-8d7c-2eb2a497e066" "http://www.sandia.gov/LabNews/LN03-12-99/robot\_story.htm" %}}  
      
 *   Compound Semiconductor  
-    [http://www.compoundsemi.com/](https://compoundsemiconductor.net/home)  
+    {{% resource_link "829ef877-c0b2-4039-9816-3a7341efa101" "http://www.compoundsemi.com/" %}}  
      
 *   Computational Chemistry RM  
     [http://www1.eere.energy.gov/manufacturing/resources/chemicals/pdfs/combchemistry\_roadmap.pdf](http://www1.eere.energy.gov/manufacturing/resources/chemicals/pdfs/combchemistry_roadmap.pdf )
@@ -80,13 +79,13 @@ Emerging
 *   Autonomous Systems
 
 *   Why You Should Be Interested in Technology Roadmaps for Compound Semiconductors  
-    [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874768/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874768/)
+    {{% resource_link "226e3f40-b3ae-47f9-8cf3-15ce5d656051" "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874768/" %}}
 
 *   A Call to Action – A national Technology Roadmap for Telecommunications  
-    [http://www.tfi.com/pubs/ntq/articles/view/95Q3\_A6.html](http://www.tfi.com/pubs/ntq/articles/view/95Q3_A6.html)
+    {{% resource_link "b8d82dae-06cb-4a12-8f8a-5c9d58a0485e" "http://www.tfi.com/pubs/ntq/articles/view/95Q3\_A6.html" %}}
 
 *   The Intel Lithography roadmap  
-    [http://www.intel.com/technology/itj/archive/2002.htm](http://www.intel.com/technology/itj/archive/2002.htm)
+    {{% resource_link "5a89439e-b0d0-4d00-a85b-17c79e8e11f8" "http://www.intel.com/technology/itj/archive/2002.htm" %}}
 
 Probert, David and Noordin Shehabuddeen. _Technology Road Mapping: The Issues of Managing Technology Change._ _Int. J. Technology_ _Management 17,_ 1999.
 
