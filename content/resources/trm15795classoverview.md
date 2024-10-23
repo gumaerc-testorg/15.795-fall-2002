@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on with an overview of the course and introduction
   to technology roadmapping.
-file: /courses/15-795-seminar-in-operations-management-fall-2002/be1bace38cf32ab7991a256e25f5e9b8_trm15795classoverview.pdf
+file: /ol-ocw-studio-app/courses/15-795-seminar-in-operations-management-fall-2002/be1bace38cf32ab7991a256e25f5e9b8_trm15795classoverview.pdf
 file_size: 588617
 file_type: application/pdf
 learning_resource_types:
