@@ -3,7 +3,7 @@ backup_url: ''
 content_type: external-resource
 external_url: https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf
 has_external_license_warning: true
-is_broken: true
+is_broken: false
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: "https://www.semiconductors.org/wp-content/uploads/2018/08/2001-Executive-Summary.pdf\
   \  \n    "
