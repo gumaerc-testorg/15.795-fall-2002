@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on roadmapping the communications value chain.
-file: /ol-ocw-studio-app/courses/15-795-seminar-in-operations-management-fall-2002/bb86092c0040b2aa2a8ca158d523715e_commroadmapmitfine021102.pdf
+file: /courses/15-795-seminar-in-operations-management-fall-2002/bb86092c0040b2aa2a8ca158d523715e_commroadmapmitfine021102.pdf
 file_size: 716376
 file_type: application/pdf
 learning_resource_types:
